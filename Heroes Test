@@ -1,6 +1,12 @@
 <!DOCTYPE html>
 <html>
-   <head>
-       <title>Heroes</title>
-   </head>
+   <h1><head>Heroes</head></h1>
+   <hr>
+   <nav><ul><h2>
+       <li>Spiderman</li>
+       <li>Steve</li>
+       <li>Black Panther</li>
+       <li>Poultryman</li>
+    </h2></ul></nav>
+    <hr>
 </html>
